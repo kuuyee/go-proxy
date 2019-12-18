@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
+	"github.com/kuuyee/go-proxy/services"
 	"log"
 	"os"
 	"os/signal"
-	"github.com/kuuyee/go-proxy/services"
 	"syscall"
 )
 

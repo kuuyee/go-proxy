@@ -5,7 +5,7 @@ import (
 	"io"
 	"time"
 
-	"golang.org/x/time/rate"
+	"github.com/golang/time/rate"
 )
 
 const burstLimit = 1000 * 1000 * 1000
